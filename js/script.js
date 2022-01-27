@@ -12,10 +12,6 @@ const cats = [
     name: "Blurt",
     age: 21,
   },
-  {
-    name: "Holm",
-    age: null,
-  },
 ];
 
 // Question 1.
